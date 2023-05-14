@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MonStyle" parent="Theme.AppCompat.Light">
+        <!-- Définir la couleur de fond de l'activité -->
+        <item name="android:windowBackground">@color/rose</item>
+    </style>
+
+</resources>
